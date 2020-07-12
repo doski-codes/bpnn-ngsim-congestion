@@ -12,4 +12,4 @@ The Neural Network was trained and tested on the **_US101 Highway data_ from the
 
 `Vehicle Volume.png` shows the number of vehicles on the road.
 
-![Vehicle Volume](https://github.com/doski-oge/bpnn-ngsim-congestion/blob/master/Vehicle%20Volume.png)
+![Vehicle Volume](https://github.com/doski-codes/bpnn-ngsim-congestion/blob/master/Vehicle%20Volume.png)
