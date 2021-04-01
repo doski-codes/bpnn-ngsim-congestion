@@ -1,0 +1,14 @@
+name: deeplearning_env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - tensorflow
+  - notebook
+  - keras
+  - pip
+  - pip:
+      - -r file:requirements.txt
+prefix: /Users/doski/miniconda3/envs/deeplearning_env
