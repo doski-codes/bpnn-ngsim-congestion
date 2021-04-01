@@ -1,19 +1,31 @@
 # Neural Network
 
-## ✍🏾 Content
+## 1. Introduction
 
-    1. Introduction
-    2. Environment
-    3. Dataset
-    4. Model
-    5. Summary
+This is an implementation of Road Traffic Congestion prediction using a back propagation Neural Network.
 
+The neural network is built using Keras with a Tensorflow backend.
 
-## 💡 Introduction
+The **_US101 Highway data_ from the  Next Generation Simulation dataset (NGSIM)** was used to build the model.
 
-This is an implementation of Road Traffic Congestion prediction Using Back Propagation Neural Network.
+## 2. Environment
 
-Requires Keras with a Tensorflow backend in addition to standard packages such as `numpy`, `matplotlib`, `pandas`, `sklearn`.
+To install the packages used in this project and you would require `conda`.
 
-The Neural Network was trained and tested on the **_US101 Highway data_ from the  Next Generation Simulation dataset (NGSIM)**.
+After cloning the repository run the following commands:
+    `cd bpnn-ngsim-congestion`
+    `conda env create -f environment.yml`
 
+Now run the command `conda activate deeplearning_env` to activate the conda environment with the required packages.
+
+You can run `conda deactivate` to deactivate the environment.
+
+## 3. Dataset
+
+The fact sheet for the US101 Next Generation Simulation dataset (NGSIM) can be found [here](https://www.fhwa.dot.gov/publications/research/operations/07030/07030.pdf).
+
+The full dataset can also be located [here](http://ngsim.fhwa.dot.gov).
+
+## 4. Model
+
+## 5. Summary
