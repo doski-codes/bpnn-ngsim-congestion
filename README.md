@@ -24,7 +24,9 @@ You can run `conda deactivate` to deactivate the environment.
 
 The fact sheet for the US101 Next Generation Simulation dataset (NGSIM) can be found [here](https://www.fhwa.dot.gov/publications/research/operations/07030/07030.pdf).
 
-The full dataset can also be located [here](http://ngsim.fhwa.dot.gov).
+You can download the US101 metadata [here](https://data.transportation.gov/api/views/8ect-6jqj/files/ddb2c29d-2ef4-4b67-94ea-b55169229bd9?download=true&filename=1-%20US%20101%20Metadata%20Documentation.pdf).
+
+The full dataset can also be located [here](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm).
 
 ## 4. Model
 
