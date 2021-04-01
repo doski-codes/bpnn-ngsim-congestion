@@ -13,8 +13,13 @@ The **_US101 Highway data_ from the  Next Generation Simulation dataset (NGSIM)*
 To install the packages used in this project and you would require `conda`.
 
 After cloning the repository run the following commands:
-    `cd bpnn-ngsim-congestion`
-    `conda env create -f environment.yml`
+    
+    
+`cd bpnn-ngsim-congestion`
+
+then
+
+`conda env create -f environment.yml`
 
 Now run the command `conda activate deeplearning_env` to activate the conda environment with the required packages.
 
