@@ -46,11 +46,9 @@ Other calculations for congestion label to be considered:
 ## 4. Model
 
 - Logistic Regression:
-- 
 This model was built with no fine tuning
 
 - Neural Network (Multi Layer Perceptron):
-- 
 This model was built with 3 layers; the input layer with 5 nodes, 1 hidden layer with 9 nodes and the output layer with 1 node.
 
 ## 5. Summary
