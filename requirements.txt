@@ -74,7 +74,7 @@ Send2Trash==1.5.0
 six @ file:///opt/concourse/worker/volumes/live/f983ba11-c9fe-4dff-7ce7-d89b95b09771/volume/six_1605205318156/work
 sklearn==0.0
 tensorboard==2.0.0
-tensorflow==2.0.0
+tensorflow==2.5.1
 tensorflow-estimator==2.0.0
 termcolor==1.1.0
 terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1617048682777/work
