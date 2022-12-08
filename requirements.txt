@@ -7,7 +7,7 @@ attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1605083924122/wo
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1616843134209/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1612213472466/work
-certifi==2020.12.5
+certifi==2022.12.7
 cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1613413897768/work
 coverage @ file:///opt/concourse/worker/volumes/live/4f1a5e30-f675-4496-6570-bc6669a34f2a/volume/coverage_1614614860186/work
 cycler==0.10.0
